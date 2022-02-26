@@ -1,10 +1,21 @@
-# Documentation
+# OpenDRR documentation on GitHub Pages
 
-NOTE: to view the models in the models directory you will need to install Archi -Open Source ArchiMate Modelling. 
+This is the `gh-pages-source` branch of the OpenDRR/documentation repository.
 
-Archi can be downloaded at:
 
-https://www.archimatetool.com/
+
+https://opendrr.github.io/documentation/ website, especially:
+
+## Generating documentation website using Jekyll with AsciiDoc plugin
+
+* [A Federated OpenDRR Platform to Support Disaster Resilience Planning in Canada: High Level Requirements](https://opendrr.github.io/documentation/docs/opendrr-platform.html)
+
+ It is rendered from AsciiDoc with Jekyll using the [GCWeb, the WET-BOEW Canada.ca theme](https://wet-boew.github.io/GCWeb/index-en.html).  The website source code lives in the [gh-pages-source](https://github.com/OpenDRR/documentation/tree/gh-pages-source) and deployed to the [gh-pages](https://github.com/OpenDRR/documentation/tree/gh-pages) branch.
+
+
+
+* [anthonyfok/documentation: High level requirements for the platform](https://github.com/anthonyfok/documentation)
+
 
 # GitHub Pages
 
